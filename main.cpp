@@ -1,4 +1,4 @@
-#include "Bitmap/Bitmap.h"
+#include "Bitmap/bitmap.h"
 #include <iostream>
 #include <vector>
 
